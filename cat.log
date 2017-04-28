@@ -1,0 +1,27 @@
+Device  : LGE LGMS550 (ph2n_mpcs_us)
+Android : 6.0.1 (1707714034572, MXB48T)
+Memory  : 17M (14.99% free, 512M max)
+Memclass: 256
+OS Host : LGEACI8R6
+App     : Signal 4.3.2
+
+--------- beginning of system
+04-27 20:20:00.816 25289 25289 W ViewRootImpl: Dropping or Cancelling event:  mStopped=false  mPausedForTransition=false
+04-27 20:20:00.816 25289 25289 W ViewRootImpl: Cancelling event due to no window focus: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x68, repeatCount=0, eventTime=185115706, downTime=185115561, deviceId=-1, source=0x101 }
+04-27 20:20:00.878 25289 25289 I Timeline: Timeline: Activity_idle id: android.os.BinderProxy@ed4d92e time:185115803
+04-27 20:20:00.980 25289 25289 I ViewRootImpl: ViewRoot's KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=185115881, downTime=185115881, deviceId=-1, source=0x101 } to com.android.internal.policy.PhoneWindow$DecorView{5595a3a V.E...... R....... 0,0-720,1280}
+04-27 20:20:01.075 25289 25289 I ViewRootImpl: ViewRoot's KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=185115996, downTime=185115881, deviceId=-1, source=0x101 } to com.android.internal.policy.PhoneWindow$DecorView{5595a3a V.E...... R....... 0,0-720,1280}
+04-27 20:20:03.220 25289 25289 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+04-27 20:20:03.338 25289 25289 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+04-27 20:20:03.343 25289 25289 I Timeline: Timeline: Activity_launch_request id:org.thoughtcrime.securesms time:185118267
+04-27 20:20:03.678 25289 25289 I Timeline: Timeline: Activity_idle id: android.os.BinderProxy@8a9b1ce time:185118602
+04-27 20:20:05.989 25289 25289 I ViewRootImpl: ViewRoot's KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=185120903, downTime=185120903, deviceId=-1, source=0x101 } to com.android.internal.policy.PhoneWindow$DecorView{7282685 V.E...... R....... 0,0-720,1280}
+04-27 20:20:06.083 25289 25289 I ViewRootImpl: ViewRoot's KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x48, repeatCount=0, eventTime=185121004, downTime=185120903, deviceId=-1, source=0x101 } to com.android.internal.policy.PhoneWindow$DecorView{7282685 V.E...... R....... 0,0-720,1280}
+04-27 20:20:06.168 25289 25289 I Timeline: Timeline: Activity_idle id: android.os.BinderProxy@ed4d92e time:185121092
+04-27 20:20:07.148 25289 25289 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+04-27 20:20:07.230 25289 25289 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+04-27 20:20:09.990 25289 25289 I ViewRootImpl: ViewRoot's Touch Event : ACTION_DOWN
+04-27 20:20:10.089 25289 25289 I ViewRootImpl: ViewRoot's Touch Event : ACTION_UP
+04-27 20:20:10.157 25289 25289 I Timeline: Timeline: Activity_launch_request id:org.thoughtcrime.securesms time:185125081
+--------- beginning of main
+04-27 20:20:10.375 25289 25289 D Editor  : setInputTypeforClipTray(): 0
